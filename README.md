@@ -1,5 +1,5 @@
-#Redux를 이용한 todo
-##https://react-redux-todo-five.vercel.app/
+<h1>Redux를 이용한 todo </h1>
+<h3>https://react-redux-todo-five.vercel.app/</h3>
 컴포넌트 구조
 <ul>
   <li> Header : 상단 Header 컴포넌트 </li>
