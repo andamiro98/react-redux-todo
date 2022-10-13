@@ -84,4 +84,9 @@ const ST_block = styled.div`
 const ST_button = styled.button`
     background-color: #9ED2C6;
     border: 2px solid #395B64;
+    border-radius: 8px;
+    cursor: pointer;
+    height: 40px;
+    width: 50%;
 `
+

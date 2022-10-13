@@ -124,7 +124,6 @@ const ST_buttonset = styled.div`
 const ST_deletebutton = styled.button`
     background-color: #E9DAC1;
     border: 2px solid #a1785f;
-    border: none;
     border-radius: 8px;
     cursor: pointer;
     height: 40px;
@@ -134,7 +133,6 @@ const ST_deletebutton = styled.button`
 const ST_completebutton = styled.button`
     background-color: #9ED2C6;
     border: 2px solid #54BAB9;
-    border: none;
     border-radius: 8px;
     cursor: pointer;
     height: 40px;
