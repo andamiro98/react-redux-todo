@@ -1,6 +1,6 @@
 #Redux를 이용한 todo
-#https://react-redux-todo-five.vercel.app/
-##컴포넌트 구조
+##https://react-redux-todo-five.vercel.app/
+컴포넌트 구조
 <ul>
   <li> Header : 상단 Header 컴포넌트 </li>
   <li> Form : 제목/내용을 입력 (전반적인 아아템 dispatch전달)</li>
